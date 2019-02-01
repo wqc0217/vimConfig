@@ -1,10 +1,8 @@
 hello
 hello
 111111
-<<<<<<< HEAD
 aaaaaaaaaa
 BBBBBBBBBBBBB
 CCCCCCCCCCCCC
 ccccccccccccccccc
-=======
->>>>>>> parent of 77097f0... aaaaaaa
+dddddddddddddddddddddd
